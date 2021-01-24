@@ -1,4 +1,4 @@
-package com.msarnowski.recipesmvp.domain;
+package com.msarnowski.recipesmvp.entity;
 
 public class Recipe { // Entity
     private String name;
